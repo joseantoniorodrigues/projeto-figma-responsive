@@ -1,9 +1,9 @@
 # Easy Shopping #
-"Meu primeiro contato com desenvolvimento de responsividade"
+### Meu primeiro contato com desenvolvimento de responsividade.
 
 <br>
 
-# Tecnologias Utilizadas: #
+### Tecnologias Utilizadas: 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,14 +14,14 @@
 
 <br>
 
-# Descrição do Projeto #
+### Descrição do Projeto 
 
 Este foi um dos meus primeiros projetos de desenvolvimento web com foco em responsividade, desenvolvido durante meus estudos no DevClub.
 O projeto consiste em uma página de apresentação para uma experiência de compras via dispositivos móveis, com uma interface simples e elementos visuais organizados para diferentes tamanhos de tela.
 
 <br>
 
-# 💻 O que pratiquei neste projeto #
+### 💻 O que pratiquei neste projeto 
 
 - Estruturação de páginas utilizando HTML.
 - Estilização de elementos com CSS.
@@ -31,14 +31,15 @@ O projeto consiste em uma página de apresentação para uma experiência de com
 
 <br>
 
-# 📱 Responsividade #
+### 📱 Responsividade 
 
 O projeto conta com ajustes de layout para telas menores, utilizando Media Queries para adaptar a disposição dos elementos e melhorar a visualização em dispositivos móveis.
 
 <br>
 
-# 🎯 Objetivo #
+### 🎯 Objetivo 
 
 Este projeto faz parte da minha jornada de aprendizado em desenvolvimento web e representa uma etapa importante na construção dos meus conhecimentos em HTML e CSS.
 Cada projeto é uma oportunidade de praticar, aprender e evoluir como desenvolvedor.
 
+### "Não existe almoço grátis"
